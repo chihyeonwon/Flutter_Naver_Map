@@ -54,3 +54,12 @@ https://www.ncloud.com/product/applicationService/maps에 접속해서 Maps 개�
 이 클라이언트 ID는 보안상으로 중요한 역할을 하기 때문에 타인에게 노출되지 않도록 조심해야 합니다.
 ```
 ![image](https://user-images.githubusercontent.com/58906858/212531661-c593c7fc-aa3d-4304-95a1-f0891152bbba.png)
+
+### 네이버 map 앱 실행하기
+```
+앱을 실행하면 다음과 같이 위치 정보 접근 권한을 요청합니다.
+앱 사용중만 허용을 누르면 네이버 앱이 나옵니다. 하지만 실질적인 처음 위치 정보를 주지 않았기에
+맵에는 반영되지 않았습니다. 다음 프로젝트에서 앱 위치 정보를 주고 활용해보겠습니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/212533901-1e45839b-dd42-488a-bfc3-3a191ba30325.png)
+
