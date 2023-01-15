@@ -40,3 +40,10 @@ pub.dev 에서 제공하는 flutter_naver_map 라이브러리르 설치합니다
 
 여기서 Map Sdk의 Client ID를 얻는 방법을 알아보겠습니다.
 ```
+
+### 네이버 클라우드 플랫폼에서 네이버 맵 API 얻기
+```
+https://www.ncloud.com/product/applicationService/maps에 접속해서 Maps 개발하고자 하는
+분야를 모두 체크한뒤 안드로이드 앱의 패키지 이름을 입력하여 추가해주면 됩니다.
+```
+![image](https://user-images.githubusercontent.com/58906858/212531542-34751677-5231-4e04-a089-3ab0e6825080.png)
